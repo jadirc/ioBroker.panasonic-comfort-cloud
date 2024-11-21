@@ -2,7 +2,7 @@
 
 | :warning: WARNING          |
 |:---------------------------|
-| New app version in adapter settings is 1.21.0      |
+| New app version in adapter settings is 1.22.0      |
 
 ![Logo](admin/panasonic-comfort-cloud.png)
 
@@ -24,6 +24,10 @@ With the method used, only one client can be logged on with the account at a tim
 It is recommended that a second account, for which the devices have been shared, is used.
 
 ## Changelog
+### 3.0.3 (2024-11-08)
+
+* panasonic-comfort-cloud-client updated to new version. CFC generator for header added.
+
 ### 3.0.2 (2024-07-10)
 
 * Fixed bug in refreshing oauth token again.
